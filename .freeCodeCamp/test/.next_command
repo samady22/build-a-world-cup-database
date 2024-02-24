@@ -273,3 +273,23 @@ git remote add origin1 https://github.com/samady22/build-a-world-cup-database.gi
 git remote -v
 git status
 git add .
+git commit -m "add new files"
+git push -u origin1
+git push -u origin1
+git config
+git confit --global user.name "samady22"
+git config --global user.name "samady22"
+git push -u origin1
+git push -u origin1 master
+git push -u origin1 main
+git fetch --unshallow
+git push -u origin1 main
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+git status
+git add .
