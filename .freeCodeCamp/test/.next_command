@@ -480,3 +480,6 @@ clear
 clear
 clear
 ./queries.sh
+git status
+git add .
+git add .
